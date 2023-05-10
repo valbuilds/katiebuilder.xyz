@@ -1,0 +1,14 @@
+.a {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.b {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+.bg-purple {
+  background-color: #6f42c1;
+}
